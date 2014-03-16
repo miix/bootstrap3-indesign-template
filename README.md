@@ -6,13 +6,17 @@ Bootstrap template for InDesign (9.2)
 
 File: bootstrap3-indesign-template.indd
 
-Version: 0.2
+Version: 0.3
 
 More info: miix.nl/bootstrap, getbootstrap.com
 
 ---
 
 ## Changelog
+
+0.3, 2014-03-16
+
+* Added some assets: buttons, image shapes, etc. More to come!
 
 0.2, 2014-03-14
 
